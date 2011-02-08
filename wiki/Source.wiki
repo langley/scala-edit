@@ -1,0 +1,5 @@
+#summary The page displayed for the source tab
+
+= Source =
+
+The source is hosted at [https://github.com/kjellwinblad/ScalaEdit]
