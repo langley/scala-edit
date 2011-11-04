@@ -1,0 +1,20 @@
+#summary This page contains screenshots
+#labels Featured
+
+= Screenshots =
+
+ScalaEdit supports sbt error detection: 
+
+http://scala-edit.googlecode.com/files/Screenshot-ScalaEdit0.3.5-Error.png
+
+The colors and font sizes can be modified by changing properties.
+
+http://scala-edit.googlecode.com/files/Screenshot-ScalaEdit0.3.5-Properties.png
+
+The built-in Scala and sbt terminals can be used as native "terminals" in Unix based systems. (A problem with JLine makes this work bad on windows. The multiline editor can be used as well.)
+
+http://scala-edit.googlecode.com/files/Screenshot-ScalaEdit0.3.5-Terminal.png
+
+ScalaEdit has a find replace command and short commands for basic operations (See the help menu).
+
+http://scala-edit.googlecode.com/files/Screenshot-ScalaEdit0.3.5-Find.png
