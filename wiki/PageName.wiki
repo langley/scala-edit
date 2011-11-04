@@ -1,6 +1,0 @@
-#summary This page contains screenshots
-#labels Featured
-
-= Screenshots =
-
-http://scala-edit.googlecode.com/files/Screenshot-ScalaEdit0.3.5-Find.png
