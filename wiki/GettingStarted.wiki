@@ -9,16 +9,12 @@ ScalaEdit is an easy to use text editor with built-in Scala and sbt terminals. T
 
 If you have not done that already you need to download and start ScalaEdit to follow this guide. See description on the [http://code.google.com/p/scala-edit front page].
 
-  # Select an empty directory where you want to store your project 
-files with the menu item "Project->Change Root..." 
-  # If it is not already done you can make the file list to the left 
-autorefresh by selecting "Project->Auto Refresh" 
+  # Select an empty directory where you want to store your project files with the menu item "Project->Change Root..." 
+  # If it is not already done you can make the file list to the left autorefresh by selecting "Project->Auto Refresh" 
   # Start an sbt terminal with "Terminal->SBT Terminal->Version 0.11" 
-  # Sbt will now initialize a project folder in the folder you have 
-selected. The target directory will contain the compiled classes. 
+  # Sbt will now initialize a project folder in the folder you have selected. The target directory will contain the compiled classes. 
   # Use "File->New" to start editing the first file. 
-  # Save the file (by pressing the save button or Control-s) as 
-"HeloWorld.scala" in the default directory. 
+  # Save the file (by pressing the save button or Control-s) as "HeloWorld.scala" in the default directory. 
   # Paste in the following content to the file: 
     <code language="scala">object HelloWorld{ 
       def main(args:Array[String]){ 
@@ -26,6 +22,4 @@ selected. The target directory will contain the compiled classes.
       } 
     }</code>
   # Save the file 
-  # Run the HelloWorld program by pressing the run button in the sbt 
-terminal. If it works you will see Hello World printed out to the 
-terminal. 
+  # Run the HelloWorld program by pressing the run button in the sbt terminal. If it works you will see Hello World printed out to the terminal. 
