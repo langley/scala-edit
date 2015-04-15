@@ -1,0 +1,1 @@
+The source is hosted at https://github.com/kjellwinblad/ScalaEdit
